@@ -1,9 +1,12 @@
 # App Showcase
 
-Functioning post to thread component!
+### Functioning post to thread component!
 
 [![Image from Gyazo](https://i.gyazo.com/742791c4258f2ae983baaa631cdec528.gif)](https://gyazo.com/742791c4258f2ae983baaa631cdec528)
 
+### Firebase Authentication for Google Accounts
+
+[![Image from Gyazo](https://i.gyazo.com/861caa55821164bf0d9651af21522310.gif)](https://gyazo.com/861caa55821164bf0d9651af21522310)
 
 ## Getting Started with Create React App
 
