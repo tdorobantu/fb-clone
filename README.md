@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# App Showcase
+
+Functioning post to thread component!
+
+[![Image from Gyazo](https://i.gyazo.com/742791c4258f2ae983baaa631cdec528.gif)](https://gyazo.com/742791c4258f2ae983baaa631cdec528)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
