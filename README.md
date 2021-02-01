@@ -8,6 +8,10 @@
 
 [![Image from Gyazo](https://i.gyazo.com/861caa55821164bf0d9651af21522310.gif)](https://gyazo.com/861caa55821164bf0d9651af21522310)
 
+### Flexbox and Material-UI Icons
+
+[![Image from Gyazo](https://i.gyazo.com/a900735c3ab911d326083850339552f6.gif)](https://gyazo.com/a900735c3ab911d326083850339552f6)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
