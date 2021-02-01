@@ -10,7 +10,7 @@
 
 ### Flexbox and Material-UI Icons
 
-[![Image from Gyazo](https://i.gyazo.com/a900735c3ab911d326083850339552f6.gif)](https://gyazo.com/a900735c3ab911d326083850339552f6)
+[![Image from Gyazo](https://i.gyazo.com/ad25bb246b26051811ca31414638d1f4.gif)](https://gyazo.com/ad25bb246b26051811ca31414638d1f4)
 
 ## Getting Started with Create React App
 
